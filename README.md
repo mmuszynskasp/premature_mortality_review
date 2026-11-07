@@ -2,7 +2,7 @@
 
 Data and codebook for the scoping review
 
-> *Premature mortality: one term, many standards. A scoping review of its conceptualisations.*
+> *One term, many conceptualisations: a scoping review of premature mortality.*
 
 The review maps how premature mortality is conceptualised in 674 peer-reviewed articles. It does so along four dimensions in two pairs:
 
