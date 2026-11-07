@@ -26,7 +26,7 @@ data/
   coded/                   the coded data and the derived files
 ```
 
-Article ids have the form `s1art###` or `s2art###`. They match the identifiers in Supplementary Material S7 of the article.
+Article ids have the form `s1art###` or `s2art###`. They are internal to the data: Supplementary Material S7 of the article and `included_articles.csv` list the articles by reference, without ids.
 
 The two reviewers are identified as **R1** and **R2**:
 
@@ -65,7 +65,7 @@ The 19 Elicit exports, one per sample (block) of articles, combined in one sheet
 | `principles_all.csv` | The ethical framing descriptor: the group of the principle an article names (`principle_group`). |
 | `article_flags.csv` | Per-article flags reported in the Results: a second identification rule, a preventable second rule, a criterion recovered from the measurement, the source of a cause list, and the source or reason given for a fixed age. |
 | `cause_list_sources.csv` | For the 26 cause-list articles, where the list comes from, with the evidence (coded value, or the PDF page and quotation). |
-| `included_articles.csv` | The table of Supplementary Material S7: each article's reference (authors, year, title, venue and DOI, checked against the PDF and Crossref), codes and descriptors, labelled as in the article. |
+| `included_articles.csv` | The table of Supplementary Material S7: each article's reference (authors, year, title, venue and DOI, checked against the PDF and Crossref), codes and descriptors, labelled as in the article, sorted by first author and year. |
 | `prisma_counts.csv`, `exclusion_grounds_all.csv`, `excluded_articles.csv`, `decisions_all.csv` | The flow of articles and the grounds for exclusion. |
 | `discipline_by_dimension.csv` | Counts by discipline on all four dimensions. |
 
