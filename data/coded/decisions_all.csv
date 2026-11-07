@@ -1,0 +1,91 @@
+sample,decision,ground,n
+sample12,exclude,clinical,4
+sample12,exclude,not operationalised,10
+sample12,include,NA,2
+sample21,exclude,clinical,3
+sample21,exclude,medical,4
+sample21,exclude,not operationalised,6
+sample21,exclude,review,1
+sample21,include,philosophy,1
+sample210,exclude,clinical,6
+sample210,exclude,medical,2
+sample210,exclude,not operationalised,4
+sample210,include,NA,1
+sample211,exclude,clinical,2
+sample211,exclude,medical,2
+sample211,exclude,not operationalised,10
+sample211,exclude,review,3
+sample212,exclude,clinical,5
+sample212,exclude,medical,5
+sample212,exclude,not operationalised,4
+sample212,exclude,review,4
+sample213,exclude,clinical,5
+sample213,exclude,medical,3
+sample213,exclude,not operationalised,7
+sample213,exclude,restricted group,1
+sample213,exclude,review,1
+sample213,include,not operationalised,2
+sample213,include,population referent,1
+sample214,exclude,clinical,4
+sample214,exclude,medical,5
+sample214,exclude,not operationalised,7
+sample214,exclude,review,2
+sample214,include,not operationalised,3
+sample214,include,NA,1
+sample215,exclude,clinical,2
+sample215,exclude,medical,3
+sample215,exclude,not operationalised,10
+sample215,exclude,restricted group,1
+sample215,include,not operationalised,1
+sample215,include,NA,1
+sample22,exclude,medical,1
+sample22,exclude,not operationalised,7
+sample22,exclude,review,2
+sample22,include,NA,1
+sample23,exclude,clinical,2
+sample23,exclude,medical,3
+sample23,exclude,not operationalised,5
+sample23,include,population referent,1
+sample23,include,NA,1
+sample24,exclude,clinical,5
+sample24,exclude,not operationalised,9
+sample24,exclude,review,3
+sample24,include,not operationalised,3
+sample25,exclude,clinical,3
+sample25,exclude,medical,5
+sample25,exclude,not operationalised,8
+sample25,exclude,review,2
+sample25,include,not operationalised,1
+sample25,include,NA,1
+sample26,exclude,clinical,7
+sample26,exclude,not operationalised,7
+sample26,exclude,restricted group,1
+sample26,include,not operationalised,1
+sample26,include,NA,3
+sample27,exclude,clinical,7
+sample27,exclude,not operationalised,10
+sample27,include,not operationalised,1
+sample27,include,NA,1
+sample28,exclude,clinical,1
+sample28,exclude,medical,1
+sample28,exclude,not operationalised,4
+sample28,exclude,restricted group,1
+sample28,exclude,review,2
+sample28,include,NA,1
+sample29,exclude,clinical,4
+sample29,exclude,medical,2
+sample29,exclude,not operationalised,4
+sample29,exclude,restricted group,1
+sample29,include,not operationalised,2
+sample29,include,NA,1
+sample34,exclude,not operationalised,7
+sample34,include,NA,4
+sample56,exclude,clinical,7
+sample56,exclude,not operationalised,11
+sample56,exclude,review,1
+sample56,include,NA,1
+sample78,exclude,clinical,3
+sample78,exclude,medical,1
+sample78,exclude,not operationalised,2
+samplemanual,exclude,not operationalised,1
+samplemanual,include,NA,8

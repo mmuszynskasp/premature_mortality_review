@@ -1,0 +1,248 @@
+"discipline","dimension","level","articles"
+"CLINICAL EPIDEMIOLOGY","all","articles",20
+"CLINICAL EPIDEMIOLOGY","combination","all deaths + years against a frontier",1
+"CLINICAL EPIDEMIOLOGY","extent form","count",18
+"CLINICAL EPIDEMIOLOGY","extent form","years",6
+"CLINICAL EPIDEMIOLOGY","extent form","recomputed schedule",5
+"CLINICAL EPIDEMIOLOGY","extent standard","other population",18
+"CLINICAL EPIDEMIOLOGY","extent standard","none",6
+"CLINICAL EPIDEMIOLOGY","extent standard","fixed value",1
+"CLINICAL EPIDEMIOLOGY","extent standard","frontier",1
+"CLINICAL EPIDEMIOLOGY","extent standard","own counterfactual",1
+"CLINICAL EPIDEMIOLOGY","identification form","other population",17
+"CLINICAL EPIDEMIOLOGY","identification form","all deaths",1
+"CLINICAL EPIDEMIOLOGY","identification form","counterfactual scenario",1
+"CLINICAL EPIDEMIOLOGY","identification form","fixed age",1
+"CLINICAL EPIDEMIOLOGY","identification standard","other population",17
+"CLINICAL EPIDEMIOLOGY","identification standard","fixed value",1
+"CLINICAL EPIDEMIOLOGY","identification standard","none needed",1
+"CLINICAL EPIDEMIOLOGY","identification standard","own counterfactual",1
+"DEMOGRAPHY","all","articles",69
+"DEMOGRAPHY","combination","all deaths + years against a frontier",2
+"DEMOGRAPHY","extent form","count",55
+"DEMOGRAPHY","extent form","years",10
+"DEMOGRAPHY","extent form","schedule contrast",9
+"DEMOGRAPHY","extent form","recomputed schedule",8
+"DEMOGRAPHY","extent form","distributional",7
+"DEMOGRAPHY","extent form","weighted years",1
+"DEMOGRAPHY","extent standard","own counterfactual",31
+"DEMOGRAPHY","extent standard","none",28
+"DEMOGRAPHY","extent standard","other population",10
+"DEMOGRAPHY","extent standard","own statistic",10
+"DEMOGRAPHY","extent standard","fixed value",2
+"DEMOGRAPHY","extent standard","frontier",2
+"DEMOGRAPHY","extent standard","cannot determine",1
+"DEMOGRAPHY","extent standard","exposure at reference category",1
+"DEMOGRAPHY","identification form","counterfactual scenario",29
+"DEMOGRAPHY","identification form","fixed age",12
+"DEMOGRAPHY","identification form","all deaths",9
+"DEMOGRAPHY","identification form","other population",8
+"DEMOGRAPHY","identification form","avoidable causes",3
+"DEMOGRAPHY","identification form","distributional statistic",3
+"DEMOGRAPHY","identification form","attributed conditions",2
+"DEMOGRAPHY","identification form","model component",2
+"DEMOGRAPHY","identification form","amenable causes",1
+"DEMOGRAPHY","identification standard","own counterfactual",27
+"DEMOGRAPHY","identification standard","fixed value",17
+"DEMOGRAPHY","identification standard","other population",11
+"DEMOGRAPHY","identification standard","none needed",9
+"DEMOGRAPHY","identification standard","own statistic",5
+"ECONOMICS","all","articles",55
+"ECONOMICS","extent form","money",41
+"ECONOMICS","extent form","years",26
+"ECONOMICS","extent form","count",25
+"ECONOMICS","extent form","weighted years",9
+"ECONOMICS","extent form","schedule contrast",3
+"ECONOMICS","extent form","recomputed schedule",1
+"ECONOMICS","extent standard","fixed value",34
+"ECONOMICS","extent standard","none",13
+"ECONOMICS","extent standard","cannot determine",9
+"ECONOMICS","extent standard","own statistic",8
+"ECONOMICS","extent standard","own counterfactual",6
+"ECONOMICS","extent standard","exposure at zero",5
+"ECONOMICS","extent standard","exposure at reference category",2
+"ECONOMICS","extent standard","other population",2
+"ECONOMICS","extent standard","frontier",1
+"ECONOMICS","identification form","fixed age",20
+"ECONOMICS","identification form","counterfactual scenario",14
+"ECONOMICS","identification form","all deaths",10
+"ECONOMICS","identification form","other population",4
+"ECONOMICS","identification form","attributed conditions",3
+"ECONOMICS","identification form","intervention",3
+"ECONOMICS","identification form","distributional statistic",1
+"ECONOMICS","identification standard","fixed value",25
+"ECONOMICS","identification standard","none needed",10
+"ECONOMICS","identification standard","exposure at zero",6
+"ECONOMICS","identification standard","own counterfactual",5
+"ECONOMICS","identification standard","other population",4
+"ECONOMICS","identification standard","cannot determine",2
+"ECONOMICS","identification standard","exposure at reference category",2
+"ECONOMICS","identification standard","own statistic",1
+"ENVIRONMENTAL SCIENCE","all","articles",9
+"ENVIRONMENTAL SCIENCE","extent form","count",7
+"ENVIRONMENTAL SCIENCE","extent form","money",4
+"ENVIRONMENTAL SCIENCE","extent form","years",2
+"ENVIRONMENTAL SCIENCE","extent form","recomputed schedule",1
+"ENVIRONMENTAL SCIENCE","extent standard","fixed value",4
+"ENVIRONMENTAL SCIENCE","extent standard","exposure at zero",3
+"ENVIRONMENTAL SCIENCE","extent standard","own counterfactual",3
+"ENVIRONMENTAL SCIENCE","extent standard","exposure at theoretical minimum",1
+"ENVIRONMENTAL SCIENCE","extent standard","frontier",1
+"ENVIRONMENTAL SCIENCE","extent standard","none",1
+"ENVIRONMENTAL SCIENCE","extent standard","own statistic",1
+"ENVIRONMENTAL SCIENCE","identification form","counterfactual scenario",5
+"ENVIRONMENTAL SCIENCE","identification form","intervention",4
+"ENVIRONMENTAL SCIENCE","identification standard","own counterfactual",4
+"ENVIRONMENTAL SCIENCE","identification standard","exposure at zero",3
+"ENVIRONMENTAL SCIENCE","identification standard","exposure at theoretical minimum",1
+"ENVIRONMENTAL SCIENCE","identification standard","fixed value",1
+"EPIDEMIOLOGY","all","articles",169
+"EPIDEMIOLOGY","combination","all deaths + years against a frontier",3
+"EPIDEMIOLOGY","extent form","count",156
+"EPIDEMIOLOGY","extent form","years",26
+"EPIDEMIOLOGY","extent form","money",7
+"EPIDEMIOLOGY","extent form","recomputed schedule",7
+"EPIDEMIOLOGY","extent form","schedule contrast",6
+"EPIDEMIOLOGY","extent form","continuous",3
+"EPIDEMIOLOGY","extent form","weighted years",1
+"EPIDEMIOLOGY","extent standard","other population",84
+"EPIDEMIOLOGY","extent standard","none",34
+"EPIDEMIOLOGY","extent standard","own counterfactual",22
+"EPIDEMIOLOGY","extent standard","exposure at reference category",15
+"EPIDEMIOLOGY","extent standard","fixed value",14
+"EPIDEMIOLOGY","extent standard","own statistic",8
+"EPIDEMIOLOGY","extent standard","exposure at theoretical minimum",7
+"EPIDEMIOLOGY","extent standard","exposure at zero",6
+"EPIDEMIOLOGY","extent standard","cannot determine",5
+"EPIDEMIOLOGY","extent standard","frontier",5
+"EPIDEMIOLOGY","extent standard","continuous",3
+"EPIDEMIOLOGY","identification form","counterfactual scenario",63
+"EPIDEMIOLOGY","identification form","other population",62
+"EPIDEMIOLOGY","identification form","fixed age",25
+"EPIDEMIOLOGY","identification form","all deaths",14
+"EPIDEMIOLOGY","identification form","attributed conditions",3
+"EPIDEMIOLOGY","identification form","distributional statistic",1
+"EPIDEMIOLOGY","identification form","intervention",1
+"EPIDEMIOLOGY","identification standard","other population",68
+"EPIDEMIOLOGY","identification standard","fixed value",33
+"EPIDEMIOLOGY","identification standard","own counterfactual",22
+"EPIDEMIOLOGY","identification standard","exposure at reference category",14
+"EPIDEMIOLOGY","identification standard","none needed",14
+"EPIDEMIOLOGY","identification standard","exposure at theoretical minimum",6
+"EPIDEMIOLOGY","identification standard","exposure at zero",6
+"EPIDEMIOLOGY","identification standard","continuous",3
+"EPIDEMIOLOGY","identification standard","cannot determine",2
+"EPIDEMIOLOGY","identification standard","own statistic",1
+"GLOBAL HEALTH","all","articles",92
+"GLOBAL HEALTH","combination","all deaths + years against a frontier",59
+"GLOBAL HEALTH","extent form","years",85
+"GLOBAL HEALTH","extent form","count",64
+"GLOBAL HEALTH","extent form","recomputed schedule",3
+"GLOBAL HEALTH","extent form","weighted years",2
+"GLOBAL HEALTH","extent standard","frontier",69
+"GLOBAL HEALTH","extent standard","none",52
+"GLOBAL HEALTH","extent standard","cannot determine",11
+"GLOBAL HEALTH","extent standard","exposure at theoretical minimum",7
+"GLOBAL HEALTH","extent standard","other population",5
+"GLOBAL HEALTH","extent standard","exposure at zero",3
+"GLOBAL HEALTH","extent standard","fixed value",3
+"GLOBAL HEALTH","extent standard","own counterfactual",2
+"GLOBAL HEALTH","extent standard","own statistic",2
+"GLOBAL HEALTH","identification form","all deaths",71
+"GLOBAL HEALTH","identification form","counterfactual scenario",10
+"GLOBAL HEALTH","identification form","fixed age",5
+"GLOBAL HEALTH","identification form","attributed conditions",2
+"GLOBAL HEALTH","identification form","intervention",2
+"GLOBAL HEALTH","identification form","amenable causes",1
+"GLOBAL HEALTH","identification form","other population",1
+"GLOBAL HEALTH","identification standard","none needed",71
+"GLOBAL HEALTH","identification standard","fixed value",8
+"GLOBAL HEALTH","identification standard","exposure at theoretical minimum",7
+"GLOBAL HEALTH","identification standard","exposure at zero",3
+"GLOBAL HEALTH","identification standard","own counterfactual",2
+"GLOBAL HEALTH","identification standard","other population",1
+"PHILOSOPHY","all","articles",4
+"PHILOSOPHY","extent form","cannot determine",4
+"PHILOSOPHY","extent standard","cannot determine",4
+"PHILOSOPHY","identification form","fixed age",2
+"PHILOSOPHY","identification form","all deaths",1
+"PHILOSOPHY","identification form","counterfactual scenario",1
+"PHILOSOPHY","identification standard","fixed value",2
+"PHILOSOPHY","identification standard","none needed",1
+"PHILOSOPHY","identification standard","own counterfactual",1
+"POLITICAL AND SOCIAL SCIENCE","all","articles",3
+"POLITICAL AND SOCIAL SCIENCE","extent form","count",3
+"POLITICAL AND SOCIAL SCIENCE","extent standard","other population",2
+"POLITICAL AND SOCIAL SCIENCE","extent standard","own counterfactual",1
+"POLITICAL AND SOCIAL SCIENCE","identification form","counterfactual scenario",3
+"POLITICAL AND SOCIAL SCIENCE","identification standard","other population",2
+"POLITICAL AND SOCIAL SCIENCE","identification standard","own counterfactual",1
+"PUBLIC HEALTH","all","articles",157
+"PUBLIC HEALTH","combination","all deaths + years against a frontier",32
+"PUBLIC HEALTH","extent form","count",111
+"PUBLIC HEALTH","extent form","years",81
+"PUBLIC HEALTH","extent form","weighted years",13
+"PUBLIC HEALTH","extent form","recomputed schedule",6
+"PUBLIC HEALTH","extent form","schedule contrast",4
+"PUBLIC HEALTH","extent form","money",3
+"PUBLIC HEALTH","extent standard","none",77
+"PUBLIC HEALTH","extent standard","frontier",37
+"PUBLIC HEALTH","extent standard","fixed value",26
+"PUBLIC HEALTH","extent standard","own counterfactual",24
+"PUBLIC HEALTH","extent standard","own statistic",22
+"PUBLIC HEALTH","extent standard","other population",19
+"PUBLIC HEALTH","extent standard","exposure at theoretical minimum",2
+"PUBLIC HEALTH","extent standard","cannot determine",1
+"PUBLIC HEALTH","extent standard","exposure at zero",1
+"PUBLIC HEALTH","identification form","all deaths",59
+"PUBLIC HEALTH","identification form","fixed age",41
+"PUBLIC HEALTH","identification form","counterfactual scenario",22
+"PUBLIC HEALTH","identification form","amenable causes",10
+"PUBLIC HEALTH","identification form","avoidable causes",10
+"PUBLIC HEALTH","identification form","other population",6
+"PUBLIC HEALTH","identification form","intervention",5
+"PUBLIC HEALTH","identification form","distributional statistic",3
+"PUBLIC HEALTH","identification form","attributed conditions",1
+"PUBLIC HEALTH","identification standard","fixed value",62
+"PUBLIC HEALTH","identification standard","none needed",59
+"PUBLIC HEALTH","identification standard","own counterfactual",22
+"PUBLIC HEALTH","identification standard","other population",6
+"PUBLIC HEALTH","identification standard","own statistic",3
+"PUBLIC HEALTH","identification standard","exposure at theoretical minimum",2
+"PUBLIC HEALTH","identification standard","frontier",2
+"PUBLIC HEALTH","identification standard","exposure at zero",1
+"SOCIAL EPIDEMIOLOGY","all","articles",92
+"SOCIAL EPIDEMIOLOGY","combination","all deaths + years against a frontier",1
+"SOCIAL EPIDEMIOLOGY","extent form","count",87
+"SOCIAL EPIDEMIOLOGY","extent form","years",11
+"SOCIAL EPIDEMIOLOGY","extent form","recomputed schedule",4
+"SOCIAL EPIDEMIOLOGY","extent form","schedule contrast",1
+"SOCIAL EPIDEMIOLOGY","extent standard","other population",62
+"SOCIAL EPIDEMIOLOGY","extent standard","none",38
+"SOCIAL EPIDEMIOLOGY","extent standard","fixed value",10
+"SOCIAL EPIDEMIOLOGY","extent standard","own counterfactual",4
+"SOCIAL EPIDEMIOLOGY","extent standard","frontier",1
+"SOCIAL EPIDEMIOLOGY","identification form","fixed age",39
+"SOCIAL EPIDEMIOLOGY","identification form","other population",29
+"SOCIAL EPIDEMIOLOGY","identification form","counterfactual scenario",16
+"SOCIAL EPIDEMIOLOGY","identification form","all deaths",3
+"SOCIAL EPIDEMIOLOGY","identification form","distributional statistic",3
+"SOCIAL EPIDEMIOLOGY","identification form","amenable causes",1
+"SOCIAL EPIDEMIOLOGY","identification form","attributed conditions",1
+"SOCIAL EPIDEMIOLOGY","identification standard","fixed value",41
+"SOCIAL EPIDEMIOLOGY","identification standard","other population",41
+"SOCIAL EPIDEMIOLOGY","identification standard","own counterfactual",4
+"SOCIAL EPIDEMIOLOGY","identification standard","none needed",3
+"SOCIAL EPIDEMIOLOGY","identification standard","own statistic",3
+"STATISTICS AND METHODS","all","articles",4
+"STATISTICS AND METHODS","extent form","count",3
+"STATISTICS AND METHODS","extent form","years",1
+"STATISTICS AND METHODS","extent standard","other population",2
+"STATISTICS AND METHODS","extent standard","none",1
+"STATISTICS AND METHODS","extent standard","own statistic",1
+"STATISTICS AND METHODS","identification form","all deaths",2
+"STATISTICS AND METHODS","identification form","fixed age",1
+"STATISTICS AND METHODS","identification form","other population",1
+"STATISTICS AND METHODS","identification standard","none needed",2
+"STATISTICS AND METHODS","identification standard","fixed value",1
+"STATISTICS AND METHODS","identification standard","other population",1
