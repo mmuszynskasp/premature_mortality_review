@@ -101,4 +101,4 @@ The data keep the internal values used during coding. The article uses these nam
 
 ## Licence
 
-The data and the codebook are licensed under the Creative Commons Attribution 4.0 International licence (CC BY 4.0).
+The data and the codebook are licensed under the Creative Commons Attribution 4.0 International licence (CC BY 4.0); the full text is in `LICENSE`.
