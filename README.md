@@ -11,7 +11,7 @@ The review maps how premature mortality is conceptualised in 674 peer-reviewed a
 
 It also records two descriptors of each article: its **discipline** and its **ethical framing**, meaning the normative principle the article names, if any.
 
-The protocol was published in advance (reference withheld for anonymous review). The search, the screening and the selection of the 954 articles read in full are described there and in the article's Methods.
+The protocol was published in advance and is cited in the article's Methods. The search, the screening and the selection of the 954 articles read in full are described there and in the article's Methods.
 
 Everything here is a copy of the review's working files. The article PDFs are not included, because they are copyrighted (see *What is not included*).
 
